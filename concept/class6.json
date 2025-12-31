@@ -1,47 +1,11 @@
 [
   {
-    "id": "c1",
-    "title": "Why Sky is Blue?",
-    "story": "Rohan aur uski behen Anu chhat par khade the. Anu ne poocha, 'Bhaiya, aasmaan neela hi kyun hota hai?' Rohan sochne laga. Tab papa bole, 'Suraj ki roshni jab hawa se takrati hai, to neeli roshni zyada fail jaati hai. Is process ko Rayleigh scattering kehte hain.' Anu muskurayi aur boli, 'Isliye sky blue dikhta hai!'",
-    "class": "6",
-    "subject": "Physics",
-    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
-    "readTime": 3
-  },
-  {
-    "id": "c2",
-    "title": "How Do Plants Make Food?",
-    "story": "School garden mein Riya ne dekha ki paudhe hamesha hare bhare rehte hain. Usne teacher se poocha, 'Ma’am, paudhe khana kaise banate hain?' Teacher boli, 'Paudhe suraj ki roshni, pani aur hawa ka use karke apna khana banate hain. Is process ko Photosynthesis kehte hain.' Riya ne socha, 'Plants bhi smart hote hain!'",
-    "class": "6",
-    "subject": "Biology",
-    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
-    "readTime": 3
-  },
-  {
-    "id": "c3",
-    "title": "The Secret of Floating Boats",
-    "story": "Aman nadi ke kinare khada tha aur soch raha tha ki bhaari ship paani par kaise tairti hai. Uske dadaji ne bataya, 'Paani ek upar ki taraf force lagata hai jise buoyant force kehte hain. Jab yeh force ship ke weight se zyada hoti hai, to ship tairti rehti hai.' Aman ko physics ka raaz samajh aa gaya.",
-    "class": "7",
-    "subject": "Physics",
-    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
-    "readTime": 3
-  },
-  {
-    "id": "c4",
-    "title": "Why Do We Need Oxygen?",
-    "story": "Meena subah jogging kar rahi thi aur tez saans lene lagi. Usne socha, 'Saans lena itna zaroori kyun hai?' Doctor uncle ne samjhaya, 'Oxygen humare sharir ko energy banane mein madad karta hai. Bina oxygen ke hum zyada der zinda nahi reh sakte.' Meena ne deep breath li aur running continue ki.",
-    "class": "7",
-    "subject": "Biology",
-    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
-    "readTime": 3
-  },
-  {
-    "id": "c5",
-    "title": "Electricity at Home",
-    "story": "Rahul ne notice kiya ki switch on karte hi bulb jal jata hai. Usne papa se poocha, 'Bijli kaise aati hai?' Papa bole, 'Power station mein electricity banti hai aur wires ke through ghar tak aati hai. Jab hum switch on karte hain, circuit complete ho jata hai.' Rahul bola, 'Electricity bhi ek story hai!'",
-    "class": "6",
-    "subject": "Physics",
-    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
-    "readTime": 3
+    "id": "c6_01",
+    "title": "Why Sky Looks Blue?",
+    "story_hi": "सूरज की रोशनी में कई रंग होते हैं। नीला रंग ज़्यादा बिखरता है, इसलिए आसमान नीला दिखता है।",
+    "story_en": "Sunlight has many colors. Blue light scatters more, so the sky looks blue.",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/sky_blue.png",
+    "liked": false,
+    "bookmarked": false
   }
 ]
