@@ -1,1 +1,21 @@
+[
+  {
+    "id": "s1",
+    "title": "Albert Einstein: The Curious Child",
+    "story": "Albert Einstein bachpan se hi bahut curious the. School mein unhe ratta-based padhai pasand nahi thi. Log unhe slow samajhte the, lekin Einstein hamesha 'kyun' aur 'kaise' poochte rehte the. Bade hokar unhone Theory of Relativity di, jisne science ki duniya badal di. Einstein ne sikhaya ki sawal poochna hi asli seekhne ka tareeka hai.",
+    "class": "7",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 3
+  },
+  {
+    "id": "s2",
+    "title": "C. V. Raman: Sound to Light",
+    "story": "C. V. Raman ko bachpan se awaazon aur prakash mein bahut interest tha. Ek din samundar ke neele rang ko dekhkar unhone socha, 'Yeh rang aata kyun hai?' Isi curiosity se Raman Effect ki khoj hui. Is khoj ke liye unhe Nobel Prize mila. Raman ne sabit kiya ki desh mein rehkar bhi world-class science ki ja sakti hai.",
+    "class": "7",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 3
+  }
+]
 
