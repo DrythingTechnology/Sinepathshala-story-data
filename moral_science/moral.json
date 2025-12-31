@@ -1,1 +1,48 @@
+[
+  {
+    "id": "m1",
+    "title": "Honesty Is the Best Policy",
+    "story": "Ravi ko school ke ground mein ek wallet mila. Usme paise aur ek ID card tha. Kuch doston ne kaha, 'Rakh le, koi nahi dekhega.' Ravi thoda confuse hua, lekin usne apni maa ki baat yaad ki ki imaandari hamesha sahi hoti hai. Ravi ne wallet principal office mein jama kar diya. Agle din wallet ke malik ne Ravi ko thank you bola aur teacher ne bhi uski honesty ki tareef ki. Ravi ko andar se khushi mili.",
+    "class": "6",
+    "subject": "Moral Science",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 4
+  },
+  {
+    "id": "m2",
+    "title": "Sharing Makes Us Happy",
+    "story": "Anjali ke paas naya lunch box tha jisme uski favorite sweets thi. Uski friend Meena apna lunch ghar par bhool aayi thi. Anjali ne bina soche apna khana Meena ke saath share kar liya. Dono ne milkar lunch kiya aur bahut khush hui. Anjali ne samjha ki cheezein baantne se khushi dugni ho jaati hai.",
+    "class": "6",
+    "subject": "Moral Science",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 3
+  },
+  {
+    "id": "m3",
+    "title": "Hard Work Brings Success",
+    "story": "Mohit ko maths mushkil lagti thi aur wo exams se darte rehta tha. Is baar usne decide kiya ki roz thoda thoda padhai karega. Wo roz practice karta, doubts poochta aur mistakes se seekhta. Exam ke result aaye to Mohit ke marks kaafi improve ho gaye. Mohit ne samjha ki mehnat kabhi bekaar nahi jaati.",
+    "class": "7",
+    "subject": "Moral Science",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 4
+  },
+  {
+    "id": "m4",
+    "title": "Respect Everyone",
+    "story": "School mein Neha hamesha apne teachers aur helpers ko respect se greet karti thi. Ek din usne dekha ki ek helper ko kisi ne daant diya. Neha ne politely baat ki aur madad ki. Teacher ne kaha, 'Jo sabko respect deta hai, wahi sach mein bada hota hai.' Neha ne seekha ki respect dene se hi respect milti hai.",
+    "class": "7",
+    "subject": "Moral Science",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 4
+  },
+  {
+    "id": "m5",
+    "title": "Time Is Precious",
+    "story": "Arjun hamesha homework kal ke liye chhod deta tha. Is wajah se wo stress mein rehta tha. Ek din usne apna time properly plan karna shuru kiya. Usne padhai, khel aur rest ka balance banaya. Dheere dheere Arjun punctual ho gaya aur uska confidence bhi badhne laga. Usne seekha ki samay ka sahi upyog bahut zaroori hai.",
+    "class": "8",
+    "subject": "Moral Science",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 4
+  }
+]
 
