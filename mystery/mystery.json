@@ -1,1 +1,48 @@
+[
+  {
+    "id": "my1",
+    "title": "The Vanishing Water Bottle",
+    "story": "School picnic ke din Rakesh ne apni water bottle bench par rakhi. Thodi der baad jab wo wapas aaya, bottle gayab thi. Sab friends ne dhoondha, lekin nahi mili. Thodi der baad bottle ground ke corner mein mil gayi. Teacher ne samjhaya ki hawa tez thi aur bottle roll hokar door chali gayi thi. Mystery solve ho gayi aur Rakesh ne seekha ki har cheez ka logical reason hota hai.",
+    "class": "6",
+    "subject": "Mystery",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 4
+  },
+  {
+    "id": "my2",
+    "title": "The Whispering Classroom",
+    "story": "Ek din class khali thi aur Suman ko laga jaise koi dheere dheere bol raha ho. Wo dar gayi aur teacher ko bataaya. Teacher ne window kholkar dekha to pata chala ki bahar se hawa pipe ke through aa rahi thi. Hawa ki awaaz walls se takrakar whisper jaisi lag rahi thi. Mystery ka science se solution mil gaya.",
+    "class": "7",
+    "subject": "Mystery",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 4
+  },
+  {
+    "id": "my3",
+    "title": "The Moving Shadow",
+    "story": "Raat ko Aman ne dekha ki uske kamre ki deewar par shadow apne aap hil rahi hai. Wo darr gaya. Thodi der baad usne notice kiya ki bahar tree ki branches hawa mein hil rahi thi aur street light unki shadow bana rahi thi. Aman ne samjha ki light aur shadow ka khel hi is mystery ka jawab tha.",
+    "class": "6",
+    "subject": "Mystery",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 4
+  },
+  {
+    "id": "my4",
+    "title": "The Ringing Phone",
+    "story": "Riya ka phone bina call aaye ring hone laga. Wo confused ho gayi. Uske bhai ne check kiya to pata chala ki phone vibration table par rakha tha aur notifications ki wajah se awaaz aa rahi thi. Phone surface se takrakar zyada loud sound bana raha tha. Mystery simple observation se solve ho gayi.",
+    "class": "7",
+    "subject": "Mystery",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 4
+  },
+  {
+    "id": "my5",
+    "title": "The Cold Spoon",
+    "story": "Neha ne dekha ki steel ki chamach thandi lag rahi hai jabki wooden chamach normal thi. Usne socha koi magic hai. Papa ne bataya ki metal heat ko jaldi transfer karta hai jabki wood nahi. Isliye steel zyada thandi lagti hai. Mystery science se solve ho gayi.",
+    "class": "6",
+    "subject": "Mystery",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 3
+  }
+]
 
