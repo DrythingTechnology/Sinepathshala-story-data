@@ -2565,5 +2565,635 @@
     "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
     "readTime": 11
   },
+  {
+    "id": "c296",
+    "title": "The Mystery of the Aurora (Solar Wind & Magnetism)",
+    "story": "Aryan ne ek video dekha jahan Norway ke aasmaan mein hari aur gulabi roshni (Auroras) naach rahi thi. Usne socha, 'Aasmaan mein ye fireworks bina patakhon ke kaise?' Physics teacher ne samjhaya, 'Suraj se lagatar charged particles (Solar Wind) nikalte hain. Agar ye particles Earth se takrayein toh hamare atmosphere ko khatam kar sakte hain.' Par Earth ek giant magnet hai. Jab ye particles Earth ki magnetic field se takrate hain, toh wo poles ki taraf mud jate hain. Wahan wo oxygen aur nitrogen gases se takrate hain, jisse ye sundar roshni paida hoti hai. Aryan ne jana ki hamari Earth ki magnetic field hamara protective shield hai. Short Explanation: Charged particles jab atmospheric gases ke saath collide karte hain toh energy photon ki form mein release hoti hai, jise aurora kehte hain.",
+    "class": "12",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c297",
+    "title": "Why Petrol is Cold on Skin? (Latent Heat)",
+    "story": "Sana ne notice kiya ki jab petrol pump par thoda sa petrol uske haath par gira, toh use bahut thandak mehsoos hui, bhale hi dhoop tez thi. Chemistry teacher ne 'Latent Heat of Vaporization' samjhaya. 'Petrol ek 'Volatile' liquid hai jo bahut jaldi gas banta hai.' Petrol ko evaporate hone ke liye heat chahiye hoti hai, aur wo ye heat Sana ki skin se kheench leta hai. Energy khone ki wajah se skin ka temperature gir jata hai aur thandak lagti hai. Sana ne jana ki yahi wajah hai ki mitti ke ghade (earthen pot) mein pani thanda rehta hai—evaporation ki wajah se. Short Explanation: Evaporation ek cooling process hai kyunki liquid surface se escape hote waqt surrounding se heat energy absorb karta hai.",
+    "class": "11",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c298",
+    "title": "The Science of High-Heels (Pressure vs Area)",
+    "story": "Megha ek party mein high-heels pehen kar gayi thi, par lawn ki mitti mein uski heels baar-baar dhans (sink) rahi thi. Uske bhai ne flat joote pehne the aur wo asani se chal raha tha. Physics teacher ne samjhaya, 'Beta, Pressure ka formula hai $P = F/A$.' Kyunki heels ka area ($A$) bahut chota hota hai, isliye poore sharir ka vajan mitti par bahut zyada pressure dalta hai. Flats ka area bada hota hai, isliye pressure phel (distribute) jata hai. Megha ne jana ki yahi wajah hai ki tanks ke niche chain-tracks hote hain aur camel ke pair chode hote hain taaki wo ret mein na dhansein. Short Explanation: Contact area ghatne se pressure badhta hai, jisse sinking depth aur impact increase ho jata hai.",
+    "class": "9",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c299",
+    "title": "Why Diamonds Don't Conduct Electricity?",
+    "story": "Kabir ne padha ki Diamond aur Graphite dono Carbon se bane hain, par graphite se current pass hota hai aur diamond se nahi. Chemistry teacher ne structure samjhaya. 'Diamond mein har Carbon charo taraf se mazbooti se juda hai ($sp^3$ hybridization).' Isme koi bhi electron 'free' nahi hai jo current le ja sake. Graphite mein har carbon sirf 3 se juda hai aur ek electron 'free' ghoomta hai ($sp^2$). Kabir ne jana ki bonding hi decide karti hai ki koi cheez insulator hogi ya conductor. Usne samjha ki kyon diamond ko industrial tools mein use karte hain par electrodes mein nahi. Short Explanation: Covalent network mein free electrons ki absence diamond ko ek excellent electrical insulator banati hai.",
+    "class": "12",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c300",
+    "title": "The Physics of Siphoning (Atmospheric Pressure)",
+    "story": "Rohan ne dekha ki uske bhaiya ne ek tube ka use karke aquarium ka pani niche rakhi balti mein nikaal diya bina aquarium ko hilaye. Physics teacher ne 'Siphon' ka raaz bataya. 'Jab tube pani se bhar jati hai, toh balti ki taraf wale lambe hisse mein pani ka vajan niche ki taraf kheenchta hai.' Isse tube ke top par low pressure banta hai. Atmospheric pressure aquarium ke pani ko tube mein upar dhakelti hai taaki wo khali jagah bhar sake. Rohan ne jana ki siphon tab tak kaam karega jab tak balti aquarium se niche hai aur tube mein hawa nahi hai. Short Explanation: Gravity aur air pressure ka balance liquid ko gravity ke against 'upar' chadhakar phir niche le jata hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c301",
+    "title": "The Strength of Soap Micelles (Cleaning Action)",
+    "story": "Sameer ke shirt par tel ka gehra daag lag gaya tha. Teacher ne samjhaya ki tel pani mein nahi ghulta kyunki tel non-polar hai aur pani polar. 'Sabun ke molecules 'Micelle' banate hain.' Sabun ka ek sirah pani se chipakta hai aur dusra tel se. Tel wala hissa daag ke andar ghus jata hai aur use gher leta hai. Jab hum pani dalte hain, toh sabun ka 'pani-premi' (hydrophilic) head tel ko kheech kar pani mein le aata hai. Sameer ne jana ki sabun dushmano (oil and water) ke beech sulah karwata hai. Short Explanation: Surfactant molecules oil ko encapsulate karke water medium mein emulsify kar dete hain.",
+    "class": "10",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c302",
+    "title": "Why do we use Antacids? (Neutralization)",
+    "story": "Papa ko teekha khana khane ke baad seene mein jalan (acidity) ho rahi thi. Mummy ne unhe 'Magnesium Hydroxide' ka ghol diya. Chemistry teacher ne bataya, 'Hamare stomach mein HCl acid hota hai jo khana pachata hai.' Par jab ye acid zyada banta hai, toh tissues ko jalata hai. Antacids 'Bases' hote hain. Jab acid aur base milte hain, toh wo ek dusre ko neutralize kar dete hain aur pani aur salt banate hain. Papa ko turant aaram mila. Sameer ne samjha ki chemistry hamare pet ke andar bhi har waqt kaam kar rahi hai. Short Explanation: $Acid + Base \rightarrow Salt + Water$; neutralization reaction pH balance karke acidity se relief deti hai.",
+    "class": "10",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c303",
+    "title": "The Magic of Rainbows (Dispersion & TIR)",
+    "story": "Ishaan ne baarish ke baad indradhanush dekha. Teacher ne samjhaya ki pani ki har boond ek chote 'Prism' ki tarah kaam karti hai. Jab suraj ki safed light boond mein ghusti hai, toh wo 7 rangon mein toot jati hai (Dispersion). Phir wo boond ki andruni deewar se takra kar wapis mudti hai (Total Internal Reflection) aur bahar nikalte waqt aur phel jati hai. Ishaan ne jana ki rainbow hamesha suraj ki ulte side mein banta hai. Usne samjha ki light ki geometry kitni sundar ho sakti hai. Short Explanation: Refraction, dispersion aur total internal reflection milkar white light ko VIBGYOR mein split karte hain.",
+    "class": "10",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c304",
+    "title": "Why Ships Float but Nails Sink? (Buoyancy)",
+    "story": "Aman ne dekha ki ek lohe ki choti keel pani mein doob gayi, par lohe ka bada jahaz tair raha tha. Physics teacher ne Archimedes Principle samjhaya. 'Har cheez pani par ek force lagati hai, aur pani badle mein use upar dhakelta hai (Buoyant Force).' Jahaz ka design aisa hota hai ki wo apne vajan se zyada pani hata (displace) deta hai. Keel bahut kam pani hatati hai, isliye wo doob jati hai. Aman ne jana ki jahaz ke andar bahut saari khali jagah (air) hoti hai, jisse uski average density pani se kam ho jati hai. Short Explanation: Displaced fluid ka weight jab object ke weight ke equal ya zyada ho, tabhi object float karta hai.",
+    "class": "9",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c305",
+    "title": "The Power of Friction (Anti-Skid Tyres)",
+    "story": "Vicky ki cycle baarish ke baad phisal gayi. Mechanic ne kaha ki tyre ghis gaye hain. Physics teacher ne samjhaya, 'Friction hamara dushman nahi, dost hai.' Tyre mein bane 'Grooves' sadak se pani ko bahar nikaalte hain taaki rubber aur sadak ke beech direct contact rahe. Agar tyre smooth ho jayein, toh pani ki ek patli layer (aquaplaning) pahiye aur sadak ke beech aa jati hai aur friction khatam ho jata hai. Vicky ne jana ki brakes lagne par cycle rukti hi isliye hai kyunki friction pahiye ko rokta hai. Short Explanation: Friction motion ko oppose karta hai par grip aur stability ke liye essential gripping force provide karta hai.",
+    "class": "9",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c306",
+    "title": "Why Steel is more Elastic than Rubber?",
+    "story": "Rohan ne Physics mein padha ki 'Steel is more elastic than rubber.' Use laga ye galat hai kyunki rubber toh zyada kheencha ja sakta hai. Teacher ne samjhaya, 'Elasticity ka matlab ye nahi ki kitna kheencha ja sakta hai, balki ye hai ki koi cheez apni asli shape mein wapis kitni jaldi aati hai.' Steel par force lagane par wo bahut kam deform hota hai aur chhodte hi turant asli shape le leta hai. Rubber dheere wapis aata hai aur zyada force par permanent khinch jata hai. Rohan ne jana ki engineering mein 'elastic' hone ka matlab bahut mazboot hona hai. Short Explanation: Young's Modulus steel ke liye bahut high hota hai, jo use deformation ke khilaaf high resistance deta hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c307",
+    "title": "The Science of Pressure Cookers",
+    "story": "Megha ne notice kiya ki pahadon par chawal pakne mein bahut time lagta hai, par pressure cooker mein turant ban jate hain. Physics teacher ne samjhaya, 'Pani 100°C par ubalta hai, par ye pressure par depend karta hai.' Cooker ke andar steam bahar nahi nikal pati, jisse pressure badh jata hai. High pressure par pani ka boiling point badhkar 120°C ho jata hai. Is extra heat ki wajah se khana jaldi pakt jata hai. Megha ne jana ki pahadon par pressure kam hota hai, isliye pani 90°C par hi ubalne lagta hai, jo khana pakane ke liye kaafi nahi hai. Short Explanation: External pressure badhne se liquid ka boiling point badh jata hai, jisse cooking faster hoti hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c308",
+    "title": "Why Do Stars Twinkle? (Refraction)",
+    "story": "Raat ko chhat par letkar Kabir ne notice kiya ki taare (stars) timtima rahe hain, par planets steady chamak rahe hain. Teacher ne samjhaya, 'Atmospheric Refraction'. Taare hamse bahut door hain, isliye wo sirf ek 'Point' ki tarah dikhte hain. Jab unki light hamari hawa ki layers se guzarti hai, toh wo bend hoti rehti hai kyunki hawa lagatar hilti hai. Is wajah se star ki brightness aur position badalti rehti hai. Planets pass hain, isliye twinkle effect cancel ho jata hai. Kabir ne jana ki twinkling asli nahi, balki hamari hawa ka dhoka hai. Short Explanation: Hawa ki badalti layers light rays ko continuously bend karti hain, causing fluctuation in star brightness.",
+    "class": "10",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c309",
+    "title": "How Rockets Move in Vacuum? (Conservation of Momentum)",
+    "story": "Arjun ne socha ki space mein toh hawa nahi hai, toh rocket kis par dhakka laga kar aage badhta hai? Physics teacher ne Newton's Third Law samjhaya. 'Har action ka barabar reaction hota hai.' Rocket ke andar fuel jalta hai aur gas bahut high speed se peeche nikalta hai. Ye gas jab peeche nikalta hai (Action), toh badle mein wo rocket ko aage dhakelta hai (Reaction). Ise 'Conservation of Momentum' kehte hain. Arjun ne jana ki rocket ko hawa ki zaroorat nahi hai, wo apne fuel ke nikalne ki taqat se hi aage badhta hai. Short Explanation: Backward momentum (gas) aur forward momentum (rocket) hamesha balance rehte hain.",
+    "class": "9",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c310",
+    "title": "The Mystery of Dry Ice (Sublimation)",
+    "story": "Vicky ne ek event mein dekha ki katori mein rakha ice pighalne ki jagah dhuaan chhod raha tha aur zameen geeli bhi nahi ho rahi thi. Chemistry teacher ne bataya, 'Ye Dry Ice hai, jo actually Solid Carbon Dioxide ($CO_2$) hai.' Ye 'Sublimation' process karta hai, yani solid se seedhe gas ban jata hai bina liquid bane. Iska temperature -78°C hota hai, isliye ise nange haath se chhoona khatarnak hai. Vicky ne jana ki dry ice ka use transport mein items ko thanda rakhne aur stage shows mein baadal banane ke liye hota hai. Short Explanation: Sublimation wo phase change hai jahan substance solid state se directly gaseous state mein convert hota hai.",
+    "class": "9",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c311",
+    "title": "Why we lean in a Turning Bus? (Centrifugal Force)",
+    "story": "Jab bus tezi se left turn leti hai, toh Isha apne aap right ki taraf dhakeli jati hai. Teacher ne samjhaya, 'Ise Inertia of Direction kehte hain.' Hamara sharir seedha (straight line) jana chahta hai, par bus ki direction badal rahi hai. Hume lagta hai koi force hume bahar phenk rahi hai (jise Centrifugal Force kehte hain), par ye sirf hamara sharir hai jo purani direction maintain karna chahta hai. Isha ne jana ki isi liye roads ko mod par 'Banked' (ek taraf se uncha) banaya jata hai taaki gaadi palte nahi. Short Explanation: Inertia ki wajah se object purana path maintain karne ki koshish karta hai, generating a pseudo-force feel.",
+    "class": "9",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c312",
+    "title": "The Strength of an Arch (Compression)",
+    "story": "Rohan ne dekha ki purane bridges 'Arch' (kaman) shape ke hote hain. Physics teacher ne samjhaya, 'Arch ka design sara vajan side ki deewaron (abutments) par transfer kar deta hai.' Arch hamesha 'Compression' mein rehta hai, yani niche ka vajan pattharon ko ek dusre ke saath aur zor se dabata hai, jisse wo aur mazboot ho jata hai. Rohan ne jana ki arch bina kisi cement ke bhi sirf geometry ke sahare khada reh sakta hai. Usne samjha ki kyon bade darwaze aur dam hamesha curved banaye jate hain. Short Explanation: Arch geometry load ko sideways distribute karti hai, keeping the structure in constant compression.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c313",
+    "title": "Why Salt is used to Melt Ice? (Freezing Point)",
+    "story": "Kashmir ki sadkon par jab baraf jamti hai, toh log wahan namak (salt) milate hain. Chemistry teacher ne 'Depression in Freezing Point' samjhaya. 'Namak pani ke molecules ke beech rukawat banta hai aur unhe baraf banne se rokta hai.' Namak milane se baraf ka freezing point 0°C se girkar -10°C ho jata hai. Is wajah se baraf us temperature par bhi pighal jati hai. Suhani ne jana ki kulfi banane wale bhi baraf mein namak milate hain taaki mixture baraf se bhi zyada thanda ho jaye. Short Explanation: Solute particles solvent ke chemical potential ko lower karte hain, lowering the freezing point.",
+    "class": "12",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c314",
+    "title": "The Blue of the Sky (Rayleigh Scattering)",
+    "story": "Kavita ne notice kiya ki dhoop mein dhool ke particles chamakte hain aur aasmaan neela dikhta hai. Teacher ne bataya ki suraj ki roshni hawa ke molecules se takrati hai. Neeli roshni ki wavelength choti hoti hai, isliye wo sabse zyada failti (scatter) hai. Ise 'Rayleigh Scattering' kehte hain. Kavita ne jana ki sunset ke waqt light ko zyada distance travel karni padti hai, isliye sirf laal rang (lambhi wavelength) hi bach pata hai. Short Explanation: Scattering intensity wavelength ke inverse 4th power ke proportional hoti hai ($I \propto 1/\lambda^4$).",
+    "class": "10",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c315",
+    "title": "How Aeroplanes Fly? (Bernoulli's Principle)",
+    "story": "Suhani ne plane ke wings dekhe jo upar se curved the. Physics teacher ne samjhaya, 'Ise Bernoulli's Principle kehte hain.' Wing ke upar se hawa tez chalti hai, isliye wahan pressure kam ho jata hai. Wing ke niche hawa slow chalti hai, isliye wahan pressure zyada hota hai. Is pressure difference ki wajah se plane ko ek upar ki taraf dhakka (Lift) milta hai. Suhani ne samjha ki plane hawa mein tairta nahi, balki pressure ke sahare chadhta hai. Short Explanation: Fluid velocity badhne se pressure ghat-ta hai; air pressure difference wing par upward lift generate karta hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c316",
+    "title": "The Mystery of the Blue Sky (Rayleigh Scattering)",
+    "story": "Arjun chhat par leta neele aasmaan ko dekh raha tha. Usne socha, 'Space toh kaala hai, phir aasmaan neela kyun dikhta hai?' Physics teacher ne samjhaya, 'Beta, ye Rayleigh Scattering ka kamaal hai.' Suraj ki safed roshni jab Earth ke atmosphere mein enter karti hai, toh wo hawa ke molecules (Nitrogen aur Oxygen) se takrati hai. Neele rang ki wavelength choti hoti hai, isliye wo sabse zyada scatter (failti) hoti hai. Isi wajah se poora aasmaan neela dikhta hai. Arjun ne ye bhi jana ki sunset ke waqt light ko zyada distance travel karni padti hai, isliye neela rang raste mein hi khatam ho jata hai aur sirf laal rang hum tak pahunchta hai. Short Explanation: Atmospheric molecules light ko wavelength ke inverse 4th power ke hisaab se scatter karte hain ($I \\propto 1/\\lambda^4$), isliye short wavelengths (blue) zyada failti hain.",
+    "class": "10",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c317",
+    "title": "Why we Cry while Cutting Onions? (Chemical Reactions)",
+    "story": "Sana kitchen mein pyaaz kaat rahi thi aur uski aankhon se pani nikalne laga. Usne Chemistry mein padha ki pyaaz ke andar 'Amino Acid Sulfoxides' hote hain. Jab hum pyaaz kaat-te hain, toh uske cells toot-te hain aur enzymes bahar aakar ek gas banate hain jise 'Syn-propanethial-S-oxide' kehte hain. Ye gas hawa mein udkar hamari aankhon ki nami (moisture) se milti hai aur thodi matra mein Sulphuric Acid banati hai. Aankhein is acid ko nikaalne ke liye aansu paida karti hain. Sana ne jana ki agar pyaaz ko thande pani mein rakh kar kaata jaye, toh ye reaction slow ho jati hai. Short Explanation: Onion enzymes sulfur compounds ko volatile gas mein badalte hain jo aankhon ke pani ke saath react karke mild sulphuric acid banati hai.",
+    "class": "9",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c318",
+    "title": "The Power of Centripetal Force (The Loop-the-Loop)",
+    "story": "Rohan ne roller coaster mein dekha ki gaadi jab ulti (upside down) hoti hai, tab bhi log niche nahi girte. Physics teacher ne samjhaya, 'Ye Centripetal Force ka kamaal hai.' Gaadi ki speed itni zyada hoti hai ki wo ek 'Inertia' paida karti hai jo use circle mein bahar ki taraf dhakelti hai. Is force ko balance karne ke liye track gaadi par niche ki taraf force lagata hai. Agar speed sahi ho, toh 'Normal Force' aur gravity milkar zaruri centripetal force dete hain jo gaadi ko track se chipkaye rakhti hai. Rohan ne samjha ki maut ke kuen (Well of Death) mein bhi yahi physics kaam karti hai. Short Explanation: Circular motion maintain karne ke liye ek center-seeking force ($F = mv^2/r$) ki zaroorat hoti hai jo gravity ko counteract karti hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c319",
+    "title": "How a Refrigerator Cools? (Evaporative Cooling)",
+    "story": "Vicky ne notice kiya ki fridge ke piche wala hissa garam hota hai par andar thandak rehti hai. Chemistry teacher ne samjhaya, 'Fridge 'Phase Change' ka use karta hai.' Isme ek refrigerant gas (jaise HFC) hoti hai jo compressor mein daba kar garam ki jati hai aur piche ki coils mein thandi hokar liquid ban jati hai. Jab ye liquid fridge ke andar ki coils mein expand hota hai, toh ye achanak gas ban jata hai (Evaporation). Is process ke liye wo fridge ke andar ki heat ko sokh leta hai, jisse andar thandak ho jati hai. Vicky ne samjha ki thandak paida nahi ki jati, balki garmi ko bahar nikaala jata hai. Short Explanation: Refrigerants low-pressure evaporator mein heat absorb karke vaporize hote hain aur high-pressure condenser mein heat release karke liquefy hote hain.",
+    "class": "11",
+    "subject": "Physics/Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c320",
+    "title": "The Secret of the Compass (Magnetic Declination)",
+    "story": "Megha jungle mein compass lekar rasta dhoond rahi thi. Usne padha ki compass ki needle hamesha 'North' dikhati hai. Par teacher ne ek shocking baat batayi, 'Megha, compass jis North ko dikhata hai (Magnetic North), wo asli North Pole (Geographic North) se thoda alag hai.' Ise 'Magnetic Declination' kehte hain. Earth ke andar ka magnetic axis thoda tida hai. Isliye pilots aur sailors ko apni maps mein is angle ko adjust karna padta hai taaki wo sahi jagah pahunch sakein. Megha ne jana ki Earth ka magnetic pole har saal thoda shift hota rehta hai. Short Explanation: Magnetic North aur Geographic North ke beech ke horizontal angle ko declination kehte hain, jo location ke hisaab se badalta hai.",
+    "class": "12",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c321",
+    "title": "Why Gold is so Inert? (Atomic Structure)",
+    "story": "Sana ne poocha ki loha (iron) jaldi kharab ho jata hai par sona (gold) hazaron saal baad bhi chamakta rehta hai. Chemistry teacher ne 'Electronic Configuration' samjhaya. 'Sone ke atoms ka nucleus itna bhari hota hai ki wo apne electrons ko bahut mazbooti se pakad kar rakhta hai (Relativistic Effects).' Iske electrons kisi aur element (jaise Oxygen) ke saath dosti (reaction) karne mein interest nahi dikhate. Sona itna lazy (inert) hai ki wo akele kisi acid se bhi react nahi karta, sirf 'Aqua Regia' (nitric aur hydrochloric acid ka mixture) hi use ghol sakta hai. Short Explanation: Gold ki high ionization energy aur stability use chemical oxidation aur corrosion se bachati hai.",
+    "class": "12",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c322",
+    "title": "The Mystery of Sound in Space (Medium Requirement)",
+    "story": "Kabir ne ek space movie dekhi jahan ek bahut bada dhamaka hua aur uski awaaz poori galaxy mein sunayi di. Uske Physics teacher ne kaha, 'Kabir, ye movie scientifically galat hai.' Sound ek 'Mechanical Wave' hai, jise travel karne ke liye molecules (hawa, pani ya solid) chahiye hote hain. Space mein hawa nahi hai, isliye vibrations travel hi nahi kar sakti. Agar tum space mein kisi ke kaan ke paas chillaoge, tab bhi use kuch sunayi nahi dega. Kabir ne jana ki space ki khamoshi asli hai. Short Explanation: Sound waves longitudinal waves hoti hain jinhe propagation ke liye material medium ki zaroorat hoti hai; vacuum mein vibration transfer nahi ho sakti.",
+    "class": "9",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c323",
+    "title": "Why Salt is Added to Pasta Water? (Boiling Point Elevation)",
+    "story": "Isha ne dekha ki mummy ne pasta ubalte waqt pani mein namak dala. Use laga namak sirf swad ke liye hai. Par Chemistry teacher ne bataya, 'Beta, ye 'Boiling Point Elevation' hai.' Namak milane se pani ka boiling point 100°C se thoda upar chala jata hai. Isse pani zyada garam ho jata hai aur pasta jaldi pak jata hai. Isha ne jana ki ye ek 'Colligative Property' hai jo sirf solute particles ki sankhya par depend karti hai. Usne samjha ki kyon samundar ka pani aam pani ke muqable thoda late ubalta hai. Short Explanation: Non-volatile solute milane se solvent ka vapor pressure ghat jata hai, jisse boiling point badh jata hai ($\\Delta T_b = iK_bm$).",
+    "class": "12",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c324",
+    "title": "The Physics of Bicycles (Conservation of Angular Momentum)",
+    "story": "Aman ne socha ki jab cycle khadi hoti hai toh wo gir jati hai, par jab wo chalti hai toh balance kaise bani rehti hai? Physics teacher ne samjhaya, 'Ise Gyroscopic Effect kehte hain.' Jab cycle ke pahiya (wheels) tezi se ghoomte hain, toh unme 'Angular Momentum' paida hota hai jo unhe apni direction badalne se rokta hai. Iske saath hi 'Caster Effect' (handle ka design) bhi madad karta hai. Agar cycle thoda tilt hoti hai, toh momentum use wapis seedha kar deta hai. Aman ne samjha ki motion hi balance ki chabi hai. Short Explanation: Rotating wheels angular momentum conserve karte hain, jo external tilt (torque) ko resist karke stability provide karta hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c325",
+    "title": "How Does Soap Remove Grease? (Hydrophobic vs Hydrophilic)",
+    "story": "Rohan ke haath par engine oil lag gaya tha jo pani se nahi nikal raha tha. Usne sabun lagaya aur wo turant saaf ho gaya. Chemistry teacher ne samjhaya, 'Sabun ke molecules (Micelles) ke do siray (ends) hote hain.' Ek sirah pani ko pasand karta hai (Hydrophilic) aur dusra tel (Grease) ko pasand karta hai (Hydrophobic). Sabun ka tail wala hissa grease mein ghus jata hai aur head wala hissa pani se chipak jata hai. Jab hum pani dalte hain, toh pani sabun ke head ko kheencta hai aur sabun apne saath grease ko bahar nikal leta hai. Short Explanation: Soap molecules surfactants hote hain jo micelles banakar non-polar grease ko polar water medium mein soluble banate hain.",
+    "class": "10",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c326",
+    "title": "The Speed of Light in Glass (Refractive Index)",
+    "story": "Vicky ne glass mein ek pencil dali aur wo tedi (bent) dikhne lagi. Teacher ne bataya ki light jab hawa se glass mein jati hai, toh wo slow ho jati hai. Hawa mein light ki speed 3,00,000 km/s hai par kanch mein ye ghut kar 2,00,000 km/s reh jati hai. Is change in speed ki wajah se light bend ho jati hai, jise 'Refraction' kehte hain. Vicky ne jana ki 'Refractive Index' hi batata hai ki kaunsa material light ko kitna slow karega. Heere (Diamond) mein light sabse zyada slow hoti hai, isliye wo itna chamakta hai. Short Explanation: Refractive Index ($n = c/v$) ratio hai speed of light in vacuum aur speed of light in medium ka, jo light bending decide karta hai.",
+    "class": "10",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c327",
+    "title": "The Mystery of Rusting (Oxidation-Reduction)",
+    "story": "Anu ne apni purani cycle barish mein chhod di aur kuch din baad us par laal rang ki layer (Rust) jama ho gayi. Chemistry teacher ne bataya, 'Beta, ye ek Electrochemical Reaction hai.' Iron (Lohe) jab hawa ki Oxygen aur pani ke contact mein aata hai, toh wo electrons lose karta hai (Oxidation). Isse Hydrated Iron Oxide banta hai jo lohe ko dheere-dheere khaa jata hai. Anu ne jana ki agar cycle par paint ya oil laga ho, toh ye hawa aur pani ka rasta rok deta hai aur rusting nahi hoti. Short Explanation: Rusting iron ka oxidation hai moisture ki presence mein; electrochemical cells bante hain jo metal ko oxide mein convert karte hain.",
+    "class": "10",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c328",
+    "title": "How Does a Microwave Cook? (Dielectric Heating)",
+    "story": "Sameer ne microwave mein plastic ka dabba rakha aur uske andar ka khana garam ho gaya, par dabba thanda hi raha. Physics teacher ne samjhaya, 'Microwave sirf polar molecules (jaise Pani) par kaam karti hai.' Microwaves ki frequency pani ke molecules ko bahut tezi se vibrate karwati hai. In molecules ke aapas mein takrane se friction paida hota hai aur khana andar se garam hone lagta hai. Plastic non-polar hota hai, isliye microwaves usme se bina asar kiye guzar jati hain. Sameer ne samjha kyon dry plates microwave mein garam nahi hoti. Short Explanation: Microwaves water molecules ke dipole ko align aur rotate karti hain (dielectric heating), converting electromagnetic energy into heat.",
+    "class": "12",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c329",
+    "title": "The Secret of Baking Soda (Chemical Decomposition)",
+    "story": "Megha ne dekha ki cake batter mein baking soda dalne se cake phool (fluffy) jata hai. Chemistry teacher ne bataya, 'Baking Soda (Sodium Bicarbonate) garmi milne par decompose hota hai.' Is reaction mein Carbon Dioxide ($CO_2$) gas nikalti hai. Ye gas cake ke andar chote-chote bubbles banati hai. Jab cake bake hota hai, ye bubbles expand hote hain aur cake ko soft aur spongy bana dete hain. Megha ne jana ki bina is reaction ke cake ek sakht roti jaisa banega. Short Explanation: $2NaHCO_3 + Heat \\rightarrow Na_2CO_3 + H_2O + CO_2$; released gas bubbles batter ki volume expand karte hain.",
+    "class": "10",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c330",
+    "title": "Why we Feel a Jerk in a Car? (Inertia)",
+    "story": "Kabir bus mein khada tha. Jaise hi bus achanak chali, wo peeche ki taraf gira. Physics teacher ne 'Inertia of Rest' samjhaya. 'Hamari body jis position mein hai, wahi rehna chahti hai.' Jab bus chali, Kabir ke pair bus ke saath aage badh gaye, par uska upar wala hissa purani jagah hi rehna chahta tha. Isi wajah se use peeche ki taraf dhakka laga. Kabir ne samjha ki brakes lagne par hum aage kyun girte hain—wo 'Inertia of Motion' hai. Short Explanation: Newton's First Law kehta hai ki object apni state of rest ya motion change nahi karna chahta jab tak external force na lage.",
+    "class": "9",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c331",
+    "title": "The Science of Fireworks (Atomic Emission)",
+    "story": "Diwali par Ishaan ne dekha ki kuch patakhe laal jalte hain aur kuch hare. Chemistry teacher ne bataya, 'Ye alag-alag metal salts ka kamaal hai.' Jab hum in metals ko garam karte hain, toh unke electrons excited ho jate hain aur high energy level par chale jate hain. Jab wo wapis apni jagah aate hain, toh wo light release karte hain. Strontium laal rang deta hai, Barium hara aur Copper neela. Ishaan ne samjha ki chemistry se hum aasmaan mein rang bhar sakte hain. Short Explanation: Thermal energy electrons ko excite karti hai; de-excitation ke dauran specific wavelength ki light emit hoti hai (line spectra).",
+    "class": "11",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c332",
+    "title": "How Aeroplanes Fly? (Bernoulli's Principle)",
+    "story": "Suhani ne plane ke wings dekhe jo upar se curved the. Physics teacher ne samjhaya, 'Ye Bernoulli's Principle hai.' Wing ke upar se hawa tez chalti hai, isliye wahan pressure kam ho jata hai. Wing ke niche hawa slow chalti hai, isliye wahan pressure zyada hota hai. Is pressure difference ki wajah se plane ko ek upar ki taraf dhakka milta hai jise 'Lift' kehte hain. Suhani ne jana ki hawa hi plane ko kandhon par utha kar rakhti hai. Short Explanation: Fluid velocity badhne se pressure ghat-ta hai; air pressure difference wing par upward lift generate karta hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c333",
+    "title": "Why Steel is preferred for Bridges? (Elasticity)",
+    "story": "Rohan ne poocha ki rubber zyada elastic hai ya steel? Teacher ne shocking answer diya: 'Steel zyada elastic hai.' Physics mein elasticity ka matlab ye nahi ki kitna kheencha ja sakta hai, balki ye hai ki koi cheez deform hone ke baad apni asli shape mein wapis kitni jaldi aati hai. Steel par bahut zyada force lagane par bhi wo bahut kam deform hota hai aur wapis apni jagah aa jata hai. Isliye bridges aur building ke liye steel best hai. Short Explanation: Young's Modulus steel ke liye bahut high hota hai, jo use high resistance to permanent deformation provide karta hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c334",
+    "title": "The Wonder of Antacids (Neutralization Reaction)",
+    "story": "Papa ko acidity ho rahi thi, toh mummy ne unhe 'Eno' ya 'Milk of Magnesia' diya. Chemistry teacher ne samjhaya, 'Hamare stomach mein HCl acid hota hai jo khana pachane mein madad karta hai.' Par jab ye zyada ho jaye, toh jalan hoti hai. Antacids 'Bases' hote hain. Jab Acid aur Base milte hain, toh wo ek dusre ko neutralize kar dete hain aur namak (salt) aur pani banate hain. Isse jalan turant khatam ho jati hai. Short Explanation: $Acid + Base \\rightarrow Salt + Water$; neutralization reaction pH balance karke stomach acidity se relief deti hai.",
+    "class": "10",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c335",
+    "title": "Why Oil Floats on Water? (Density and Polarity)",
+    "story": "Kavita ne dekha ki pani mein tel (oil) milane par tel hamesha upar tairta rehta hai. Chemistry teacher ne do reasons bataye. Pehla, tel ki density pani se kam hai. Dusra, pani polar hai aur tel non-polar. Ye dono aapas mein dosti nahi karte ('Like dissolves like'). Tel ke molecules pani ke molecules ke beech jagah nahi bana paate, isliye wo apni alag layer bana kar upar tairte hain. Kavita ne samjha kyon tel ke daag sirf sabun se hi saaf hote hain. Short Explanation: Density difference aur lack of hydrogen bonding/polarity mismatch ki wajah se oil aur water immiscible hote hain.",
+    "class": "9",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c336",
+    "title": "The Mystery of the Sonic Boom (Shock Waves)",
+    "story": "Aryan ne aasmaan mein ek fighter jet ko guzarte dekha. Jet ke nikalne ke kuch seconds baad ek bahut bada dhamaka sunayi diya, jaise koi bomb phata ho. Papa ne samjhaya, 'Ise Sonic Boom kehte hain.' Physics teacher ne bataya ki jab koi plane sound ki speed (344 m/s) se tez chalta hai, toh wo apne aage banne wali sound waves ko peeche chhod deta hai. Ye waves aapas mein takrakar ek bahut mazboot 'Shock Wave' banati hain jo zameen par dhamake ki tarah sunayi deti hain. Aryan ne jana ki sound sirf sunne ke liye nahi, pressure wave ki tarah physically asar bhi dal sakti hai. Short Explanation: Jab source ki velocity sound ki velocity se zyada ho jati hai, toh pressure waves constructively interfere karke shock waves banati hain.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c337",
+    "title": "Why Petrol Engines Knock? (Octane Rating)",
+    "story": "Sana ki car engine se ajeeb 'pinging' noise aa rahi thi. Mechanic ne kaha ki petrol ki quality sahi nahi hai aur engine 'knock' kar raha hai. Chemistry teacher ne samjhaya, 'Beta, petrol engine mein fuel aur hawa ka mixture spark se pehle hi khud-ba-khud jalne lagta hai (Pre-ignition).' Is jhatke se engine ko nuksan hota hai. High-octane petrol (premium fuel) compression ko zyada jhel sakta hai bina jale. Sana ne jana ki Octane number fuel ki anti-knock property ko measure karta hai. Usne samjha ki branched-chain hydrocarbons engine ki health ke liye kyon behtar hain. Short Explanation: Octane number fuel ki stability measure karta hai; branched hydrocarbons pre-ignition ko rok kar smooth combustion ensure karte hain.",
+    "class": "12",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c338",
+    "title": "The Secret of Polarized Sunglasses",
+    "story": "Aman ne dhoop mein car chalate waqt notice kiya ki normal chashme se sadak ki chamak (glare) nahi hat rahi thi, par polarized sunglasses pehente hi sab saaf dikhne laga. Physics teacher ne samjhaya, 'Light waves har direction mein vibrate karti hain, par jab wo kisi flat surface (sadak ya pani) se takrati hain, toh wo horizontal ho jati hain.' Polarized lenses ek barik jhalli (filter) ki tarah hote hain jo sirf vertical light ko pass hone dete hain aur horizontal glare ko block kar dete hain. Aman ne samjha ki ye technology sirf fashion nahi, safety ke liye bhi zaroori hai. Short Explanation: Polarization light waves ki vibration ko ek single plane tak restrict kar deta hai, jisse unwanted reflections aur glare khatam ho jati hai.",
+    "class": "12",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c339",
+    "title": "The Strength of Surface Tension (Capillary Action)",
+    "story": "Megha ne dekha ki jab wo ek tissue paper ka kona pani mein dubati hai, toh pani apne aap upar chadhne lagta hai, gravity ke khilaaf. Teacher ne bataya, 'Ise Capillary Action kehte hain.' Pani ke molecules aapas mein chipakte hain (Cohesion) aur paper ke fibers se bhi chipakte hain (Adhesion). Surface tension ki wajah se pani ek barik tube ya fiber mein 'khinch' jata hai. Megha ne jana ki yahi wajah hai ki bade-bade pedon ki choti tak pani bina kisi pump ke pahunch jata hai. Short Explanation: Adhesive aur cohesive forces ka combination barik tubes mein liquid ko gravity ke against upar chadhata hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c340",
+    "title": "How Does a Breathalyzer Work? (Redox Reaction)",
+    "story": "Traffic police ne ek driver ko roka aur use ek machine mein phookne ko kaha. Driver ne alcohol pee rakhi thi aur machine ne turant signal de diya. Chemistry teacher ne bataya, 'Machine ke andar Potassium Dichromate hota hai.' Jab alcohol ki bhaap (vapour) isse takrati hai, toh ek Redox reaction hoti hai. Alcohol oxidise ho jata hai aur orange rang ka dichromate, hare (green) rang ke chromium sulphate mein badal jata hai. Is color change ki intensity se alcohol ka level pata chalta hai. Short Explanation: Alcohol ka chemical oxidation ek visible color change produce karta hai, jise electrical signals mein convert karke concentration measure ki jati hai.",
+    "class": "12",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c341",
+    "title": "The Physics of Sitar Strings (Harmonics)",
+    "story": "Vicky ne dekha ki sitar ka ustad ek hi taar ko alag-alag jagah se dabba kar alag-alag sur nikal raha tha. Teacher ne samjhaya, 'Beta, ye Harmonics aur Frequency ka khel hai.' Jab hum taar ki lambai (effective length) kam karte hain, toh uski vibration ki frequency badh jati hai aur awaaz 'teekhi' (high pitch) ho jati hai. Usne ye bhi jana ki taar kitna khincha hua hai (Tension), ye bhi sur decide karta hai. Vicky ne samjha ki music actually vibrating strings ka math hai. Short Explanation: String ki length, tension aur mass per unit length uski fundamental frequency aur harmonics decide karte hain ($f \\propto \\sqrt{T}/L$).",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c342",
+    "title": "Why we Hear Better at Night? (Sound Refraction)",
+    "story": "Vicky ne notice kiya ki raat ke sannate mein door ki train ki awaaz bhi bahut saaf sunayi deti hai. Usne Physics mein padha: 'Sound refracts towards cooler air.' Din mein zameen garam hoti hai, toh sound waves upar ki taraf mud jati hain. Raat ko zameen thandi hoti hai aur upar ki hawa garam, jisse sound waves wapis niche zameen ki taraf refract hokar aati hain. Vicky ne samjha ki temperature gradients sound ki direction badal sakte hain. Short Explanation: Sound waves medium ke temperature differences ki wajah se bend hoti hain, improving transmission at night.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c343",
+    "title": "The Power of Buffer Solutions",
+    "story": "Sameer ne poocha ki hum itna sara nimbu aur acidic khana khate hain, phir bhi hamare khoon (blood) ka pH kyon nahi badalta? Chemistry teacher ne bataya, 'Beta, hamara blood ek Buffer Solution hai.' Isme weak acids aur salts ka aisa mixture hota hai jo bahar se aaye extra acid ya base ko neutral kar deta hai. Agar blood ka pH (7.4) thoda sa bhi badla, toh hamari body ke enzymes kaam karna band kar denge. Sameer ne samjha ki buffer hamari body ka 'shock absorber' hai jo chemistry ko balance rakhta hai. Short Explanation: Buffer solutions pH mein hone wale changes ko resist karte hain by neutralizing small amounts of added acids or bases.",
+    "class": "11",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c344",
+    "title": "Why we lean in a Turning Bus? (Centrifugal Force)",
+    "story": "Jab bus tezi se left turn leti hai, toh Isha apne aap right ki taraf dhakeli jati hai. Teacher ne samjhaya, 'Ise Inertia of Direction kehte hain.' Hamara sharir seedha (straight line) jana chahta hai, par bus ki direction badal rahi hai. Hume lagta hai koi force hume bahar phenk rahi hai (jise Centrifugal Force kehte hain), par ye sirf hamara sharir hai jo purani direction maintain karna chahta hai. Isha ne jana ki isi liye roads ko mod par 'Banked' (ek taraf se uncha) banaya jata hai taaki gaadi palte nahi. Short Explanation: Inertia ki wajah se object purana path maintain karne ki koshish karta hai, generating a pseudo-force feel.",
+    "class": "9",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c345",
+    "title": "The Science of Hard Water (Ion Exchange)",
+    "story": "Vicky ne notice kiya ki nahane ke baad uske baal bahut sakht aur rukkhe (rough) ho gaye hain. Mummy ne kaha ki pani 'Hard' hai. Chemistry teacher ne samjhaya, 'Hard water mein Calcium aur Magnesium ke ions hote hain jo sabun ke saath milkar jhaag nahi, balki ek chip-chipa 'Scum' banate hain.' Ise thik karne ke liye RO filters mein 'Ion Exchange Resin' hota hai. Ye resin calcium ions ko pakad leta hai aur unke badle sodium ions pani mein chhod deta hai, jisse pani 'Soft' ho jata hai. Short Explanation: Hardness pani mein maujood divalent cations ki wajah se hoti hai; ion-exchange in ions ko replace karke cleaning efficiency badhata hai.",
+    "class": "10",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c356",
+    "title": "The Mystery of Liquid Crystals (States of Matter)",
+    "story": "Aryan ne apne calculator aur mobile ki screen ko dhyan se dekha. Usne socha ye kanch hai ya pani? Chemistry teacher ne 'Liquid Crystals' samjhaya. 'Ye matter ki aisi state hai jo liquid ki tarah beh sakti hai par iske molecules solids ki tarah organized hote hain.' Jab hum inpar thodi bijli (electric field) dalte hain, toh inka orientation badal jata hai aur ye light ko block ya pass karne dete hain. Isi technology se LCD screens par images bante hain. Aryan ne jana ki har cheez sirf Solid, Liquid ya Gas nahi hoti, kuch 'intermediate' states bhi hoti hain jo hamari technology ko smart banati hain. Short Explanation: Liquid crystals liquid fluidity aur solid molecular order ka combination show karte hain, jo electric field ke sensitive hote hain.",
+    "class": "11",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c357",
+    "title": "Why Astronauts Wear Suits? (Boiling Point & Pressure)",
+    "story": "Sana ne ek space movie dekhi aur socha ki space suit pehenna kyun zaroori hai? Physics teacher ne bataya, 'Space mein pressure zero (vacuum) hai.' Pani ka boiling point pressure par depend karta hai. Agar koi insaan bina suit ke space mein jaye, toh pressure na hone ki wajah se uske shareer ke fluids (khoon aur aansu) uske shareer ki garmi se hi ubalne (boil) lagenge. Ise 'Ebullism' kehte hain. Space suit shareer ke charo taraf Earth jaisa pressure banaye rakhta hai taaki hum 'ubal' na jayein. Sana ne samjha ki pressure aur temperature ka rishta hi hume zinda rakhta hai. Short Explanation: Pressure girne se boiling point ghat-ta hai; zero pressure par liquids body temperature par bhi vaporise ho jate hain.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c358",
+    "title": "The Power of Catalytic Converters (Surface Chemistry)",
+    "story": "Megha ne notice kiya ki cars ke silencers mein ek dabba laga hota hai jo pollution kam karta hai. Chemistry teacher ne bataya, 'Ise Catalytic Converter kehte hain.' Iske andar Platinum aur Palladium ki coating hoti hai. Ye metals zehreeli gases jaise Carbon Monoxide aur Nitrogen Oxides ko apni surface par 'Adsorb' (sokh) lete hain aur unhe safe gases ($CO_2$ aur $N_2$) mein badal dete hain. Megha ne jana ki ye reaction 'Heterogeneous Catalysis' ka best example hai. Usne samjha ki kyon in converters ki keemat itni zyada hoti hai—kyunki inme mahange metals ka use hota hai. Short Explanation: Gas molecules metal surface par react karke harmless substances mein convert ho jate hain through surface adsorption.",
+    "class": "12",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c359",
+    "title": "The Speed of Sound in Solids vs Air",
+    "story": "Megha ne purani movies mein dekha ki log train aane se pehle patri (track) par kaan lagakar sunte the. Teacher ne samjhaya, 'Beta, sound ki speed solids mein hawa ke muqable bahut zyada hoti hai.' Hawa mein sound 344 m/s se chalta hai, par steel mein ye lagbhag 5,000 m/s se travel karta hai. Kyunki steel ke atoms hawa ke muqable bahut pass aur tightly jude hote hain, wo vibrations ko turant pass karte hain. Megha ne jana ki sound ko travel karne ke liye molecules ka physical contact aur elasticity zaroori hai. Short Explanation: Elasticity aur density sound ki speed decide karti hain; solids ki high elasticity fast energy transfer facilitate karti hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c360",
+    "title": "Why Steel is Preferred over Iron? (Alloying)",
+    "story": "Rohan ne dekha ki lohe ke auzar jaldi rust ho jate hain, par aaj ke steel ke bartan hamesha chamakte hain. Chemistry teacher ne bataya, 'Pure iron naram hota hai aur uske atoms asani se slide karte hain.' Jab hum lohe mein thoda Carbon (0.1% se 1.5%) milate hain, toh carbon ke chote atoms lohe ke atoms ke beech ki khali jagah (interstitial sites) ko bhar dete hain. Isse atoms ka sliding ruk jata hai aur loha 'Steel' ban kar sakht ho jata hai. Rohan ne samjha ki sahi matra mein milawat metal ki durability badal deti hai. Short Explanation: Interstitial carbon atoms metal lattice ko reinforce karte hain, hardness aur corrosion resistance badhate hain.",
+    "class": "11",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c361",
+    "title": "The Physics of Siphoning (Atmospheric Pressure)",
+    "story": "Kabir ne dekha ki uska bhai unchai par rakhi tanki se pani ek pipe ke zariye niche balti mein nikal raha tha, bina kisi pump ke. Physics teacher ne samjhaya, 'Ise Siphon kehte hain.' Jab pipe pani se bhar jata hai aur uska ek sirah niche hota hai, toh gravity pani ko niche kheencti hai. Isse pipe ke top par low pressure banta hai. Atmospheric pressure tanki ke pani ko tube mein upar dhakelti hai taaki wo us khali jagah ko bhar sake. Kabir ne samjha ki ye tab tak kaam karta hai jab tak outlet, inlet se niche hai. Short Explanation: Gravity aur atmospheric pressure ke gradient ki wajah se liquid bina mechanical pump ke flow karta hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c362",
+    "title": "Why we can't walk through Walls? (Pauli’s Exclusion)",
+    "story": "Vicky ne socha ki atoms 99% khali jagah hain, toh hum deewar ke paar kyun nahi nikal sakte? Physics teacher ne samjhaya, 'Vicky, ye electrons ki 'nakhre' ki wajah se hai.' Pauli’s Exclusion Principle kehta hai ki do electrons ek hi quantum state mein nahi reh sakte. Jab tum apna haath deewar par rakhte ho, toh deewar ke electrons tumhare haath ke electrons ko repel karte hain aur unhe compress karne ke liye bahut zyada energy chahiye. Ise 'Electron Degeneracy Pressure' kehte hain. Vicky ne jana ki atoms bhale hi khali hain par unki fields impenetrable hain. Short Explanation: Fermions (electrons) same quantum state occupy nahi kar sakte, jisse matter ko solidity aur structure milti hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c363",
+    "title": "The Secrets of Carbon Dating (Radioactivity)",
+    "story": "Archaeologists ko ek purani ghati mein ek purana kankal mila. Unhone daava kiya ki ye 5,000 saal purana hai. Karan ne socha, 'Hadiyon ne apni umar kaise batayi?' Chemistry teacher ne samjhaya, 'Beta, har living organism mein Carbon-14 hota hai jo radioactive hai.' Jab koi marta hai, toh wo naya carbon lena band kar deta hai aur uska C-14 ek fixed rate par decay (khatam) hone lagta hai. Iska 'Half-life' 5,730 saal hai. Agar hum bache huye C-14 ko naap lein, toh hum time calculate kar sakte hain. Karan ne samjha ki radioactivity history ko unlock karne ki chabi hai. Short Explanation: Radioisotopes ek constant rate par decay hote hain, jise 'atomic clock' ki tarah organic samples ki age ke liye use kiya jata hai.",
+    "class": "12",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c364",
+    "title": "Why Diamonds Don't Conduct Electricity?",
+    "story": "Kabir ne padha ki Diamond aur Graphite dono Carbon se bane hain, par graphite se current pass hota hai aur diamond se nahi. Chemistry teacher ne bonding samjhayi. 'Diamond mein har Carbon charo taraf se tetrahedral structure mein juda hai ($sp^3$ hybridization).' Isme koi bhi electron 'free' nahi hai jo current carry kar sake. Graphite mein har carbon sirf 3 se juda hai aur ek electron 'free' rehta hai jo conductivity deta hai. Kabir ne jana ki molecular geometry hi decide karti hai ki koi cheez insulator hogi ya conductor. Short Explanation: Covalent network mein mobile electrons ki absence diamond ko ek excellent electrical insulator banati hai.",
+    "class": "11",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c365",
+    "title": "How a Microwave Cooks? (Dielectric Heating)",
+    "story": "Vicky ne dekha ki microwave mein plastic ka dabba thanda rehta hai par andar ka khana garam ho jata hai. Physics teacher ne samjhaya, 'Microwaves specific frequency ki waves hoti hain jo sirf polar molecules (jaise Water) par asar karti hain.' Water molecules ke paas dipole moment hota hai. Jab microwave unse takrati hai, toh wo molecules ko 1 second mein karodon baar rotate karwati hai. Is rotation se friction paida hota hai jo khane ko garam kar deta hai. Plastic non-polar hota hai, isliye wo garam nahi hota. Vicky ne samjha kyon sukhi plate microwave mein thandi rehti hai. Short Explanation: Water molecules ka high-frequency rotation electromagnetic energy ko heat mein convert karta hai (dielectric heating).",
+    "class": "12",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c366",
+    "title": "Why we lean in a Turning Bus? (Centrifugal Force)",
+    "story": "Jab bus tezi se left turn leti hai, toh Isha apne aap right ki taraf dhakeli jati hai. Teacher ne samjhaya, 'Ise Inertia of Direction kehte hain.' Hamara sharir seedha (straight line) jana chahta hai, par bus ki direction badal rahi hai. Hume lagta hai koi force hume bahar phenk rahi hai (jise Centrifugal Force kehte hain), par ye sirf hamara sharir hai jo purani direction maintain karna chahta hai. Isha ne jana ki isi liye highway par banks (mod) ko tilt kiya jata hai taaki centrifugal force balance ho sake. Short Explanation: Inertia ki wajah se object purana linear path maintain karne ki koshish karta hai, generating a pseudo-force feel.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c367",
+    "title": "The Strength of an Arch (Compression Forces)",
+    "story": "Rohan ne dekha ki purane bridges 'Arch' (kaman) shape ke hote hain aur sadiyon se khade hain. Physics teacher ne samjhaya, 'Arch ka design sara vajan lateral walls par transfer kar deta hai.' Arch hamesha 'Compression' mein rehta hai, yani niche ka vajan pattharon ko ek dusre ke saath aur zor se dabata hai. Patthar aur concrete dabne (compression) mein bahut mazboot hote hain par khinchne (tension) mein kamzor. Rohan ne jana ki arch bina kisi metal reinforcement ke bhi hazaron saal khada reh sakta hai. Short Explanation: Arch geometry gravity load ko compression mein convert karti hai, jo building materials ke liye ideal state hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c368",
+    "title": "The Mystery of Dry Ice (Sublimation)",
+    "story": "Vicky ne ek event mein dekha ki katori mein rakha ice pighalne ki jagah dhuaan chhod raha tha aur zameen geeli bhi nahi ho rahi thi. Teacher ne bataya, 'Ye Dry Ice hai, jo actually Solid Carbon Dioxide ($CO_2$) hai.' Ye 'Sublimation' process karta hai, yani solid se seedhe gas ban jata hai bina liquid bane. Iska temperature -78°C hota hai, isliye ise nange haath se chhoona khatarnak hai kyunki ye frostbite de sakta hai. Vicky ne jana ki dry ice ka use transport mein vaccines ko thanda rakhne ke liye kiya jata hai. Short Explanation: Sublimation wo phase change hai jahan substance solid state se directly gaseous state mein convert hota hai standard pressure par.",
+    "class": "11",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
+  {
+    "id": "c369",
+    "title": "The Physics of Sitar (Resonance & Vibrations)",
+    "story": "Rohan ne Sitar bajate huye dekha ki wo sirf ek taar (string) chhedta hai par baaki taar bhi apne aap vibrate karne lagte hain. Physics teacher ne bataya, 'Ise Resonance kehte hain.' Har taar ki apni natural frequency hoti hai. Jab ek taar ki vibration ki frequency dusre taar se match karti hai, toh wo dusra taar bhi bina chhuye energy absorb karke hilne lagta hai. Sitar ke niche laga 'Gourd' (kaddu) awaaz ko amplify karta hai. Rohan ne samjha ki music actually wave interference aur frequency matching ka ek perfect blend hai. Short Explanation: Jab driving frequency natural frequency ke barabar hoti hai, toh vibration amplitude maximum ho jata hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c370",
+    "title": "The Secret of Glow Sticks (Chemiluminescence)",
+    "story": "Party mein Megha ne ek glow stick ko moda (crack kiya) aur wo chamakne lagi. Usne Chemistry mein padha ki ye koi battery nahi, balki ek Chemical Reaction hai. Stick ke andar ek choti glass tube hoti hai jisme hydrogen peroxide hota hai. Modne par wo glass toot-ta hai aur chemicals aapas mein mil jate hain. Ye reaction energy release karti hai jo 'dye' molecules ko 'excite' karti hai aur wo roshni chhodte hain. Megha ne jana ki ise 'Cold Light' kehte hain kyunki isme garmi paida nahi hoti. Short Explanation: Chemical reaction se direct light emission hone ko chemiluminescence kehte hain, isme heat loss negligible hota hai.",
+    "class": "12",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c371",
+    "title": "How a Generator Works? (Electromagnetic Induction)",
+    "story": "Bijli chali gayi toh Rohan ne generator chalu kiya. Usne dekha ki ek bada pahiya ghoom raha hai aur bijli ban rahi hai. Physics teacher ne samjhaya, 'Beta, ye Michael Faraday ka principle hai.' Jab koi copper wire magnetic field ke andar ghoomta hai (ya magnet wire ke paas), toh usme electrons ka flow shuru ho jata hai. Ise 'Electromagnetic Induction' kehte hain. Generator diesel se pahiye ko ghumata hai, aur magnet use electrical energy mein badal deta hai. Rohan ne samjha ki electricity aur magnetism ek hi sikke ke do pehlu hain. Short Explanation: Mechanical energy ko electrical energy mein badalne ke liye magnetic flux change ka use hota hai (Faraday's Law).",
+    "class": "12",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c372",
+    "title": "Why Steel is more Elastic than Rubber?",
+    "story": "Rohan ne Physics mein padha ki 'Steel is more elastic than rubber.' Use laga ye galat hai kyunki rubber toh zyada kheencha ja sakta hai. Teacher ne samjhaya, 'Elasticity ka matlab ye nahi ki kitna kheencha ja sakta hai, balki ye hai ki koi cheez deform hone ke baad apni asli shape mein wapis kitni jaldi aati hai.' Steel par force lagane par wo bahut kam deform hota hai aur chhodte hi turant apni jagah wapis aa jata hai. Rubber ka recovery time zyada hota hai. Rohan ne jana ki bridges aur building ke liye steel ki high elasticity hi use safe banati hai. Short Explanation: Young's Modulus steel ke liye bahut high hota hai, jo use deformation ke khilaaf high resistive force deta hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c373",
+    "title": "The Power of Enzyme (Catalysis)",
+    "story": "Meher ne socha ki jo khana hum khate hain wo 2-3 ghante mein kaise pach jata hai, jabki lab mein wahi process mahino le sakti hai. Chemistry teacher ne bataya, 'Hamari body mein Enzymes hote hain jo 'Biological Catalysts' hain.' Ye reaction ki Activation Energy (zaruri energy) ko bahut kam kar dete hain, jisse reaction ki speed lakho guna badh jati hai. Meher ne jana ki enzymes bahut 'picky' hote hain—ek enzyme sirf ek hi specific reaction par kaam karta hai. Short Explanation: Catalysts reaction ka energy barrier lower karte hain bina khud reaction mein consume huye.",
+    "class": "12",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 11
+  },
+  {
+    "id": "c374",
+    "title": "The Physics of Cricket Swings (Magnus Effect)",
+    "story": "Cricket match mein fast bowler ne ball phekki aur wo hawa mein hi mud gayi (swing). Vicky hairan tha. Teacher ne 'Magnus Effect' samjhaya. 'Jab ball spin hoti hai, toh wo apne saath hawa ki ek layer ko ghumati hai.' Ball ki ek side hawa ki speed badh jati hai (Low pressure) aur dusri side hawa slow ho jati hai (High pressure). Is pressure difference ki wajah se ball par ek force lagti hai jo use 'curve' kar deti hai. Vicky ne jana ki isi liye bowler ball ki ek side ko shiny aur ek ko rough rakhte hain. Short Explanation: Rotating object aur air flow ke interaction se pressure gradient banta hai jo trajectory ko bend karta hai.",
+    "class": "11",
+    "subject": "Physics",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 12
+  },
+  {
+    "id": "c375",
+    "title": "The Wonder of Antacids (Neutralization Reaction)",
+    "story": "Papa ko acidity ho rahi thi, toh mummy ne unhe 'Eno' ya 'Milk of Magnesia' diya. Chemistry teacher ne samjhaya, 'Hamare stomach mein HCl acid hota hai jo khana pachane mein madad karta hai.' Par jab ye zyada ho jaye, toh jalan hoti hai. Antacids 'Bases' hote hain. Jab Acid aur Base milte hain, toh wo ek dusre ke asar ko khatam (neutralize) kar dete hain aur namak (salt) aur pani banate hain. Papa ko turant aaram mila. Short Explanation: Neutralization reaction pH ko restore karti hai aur chemical balance banaye rakhti hai.",
+    "class": "11",
+    "subject": "Chemistry",
+    "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
+    "readTime": 10
+  },
 
 ]
