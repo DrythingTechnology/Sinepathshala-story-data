@@ -14,7 +14,7 @@
     "isActive": true,
     "source": "manual"
   },
-    {
+  {
     "videoId": "h-NCdNwE-iA",
     "title": "Test Video (replace with real science short)",
     "description": "Just testing playback",
@@ -29,7 +29,7 @@
     "isActive": true,
     "source": "manual"
   },
-    {
+  {
     "videoId": "h-NCdNwE-iA",
     "title": "Test Video (replace with real science short)",
     "description": "Just testing playback",
@@ -44,7 +44,7 @@
     "isActive": true,
     "source": "manual"
   },
-    {
+  {
     "videoId": "h-NCdNwE-iA",
     "title": "Test Video (replace with real science short)",
     "description": "Just testing playback",
@@ -59,7 +59,7 @@
     "isActive": true,
     "source": "manual"
   },
-    {
+  {
     "videoId": "h-NCdNwE-iA",
     "title": "Test Video (replace with real science short)",
     "description": "Just testing playback",
@@ -73,6 +73,5 @@
     "isShort": true,
     "isActive": true,
     "source": "manual"
-  },
-  
+  }
 ]
