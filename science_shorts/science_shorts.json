@@ -13,5 +13,66 @@
     "isShort": true,
     "isActive": true,
     "source": "manual"
-  }
+  },
+    {
+    "videoId": "h-NCdNwE-iA",
+    "title": "Test Video (replace with real science short)",
+    "description": "Just testing playback",
+    "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+    "channelId": null,
+    "channelName": "Test Channel",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "category": "PHYSICS",
+    "language": "en",
+    "durationSeconds": 45,
+    "isShort": true,
+    "isActive": true,
+    "source": "manual"
+  },
+    {
+    "videoId": "h-NCdNwE-iA",
+    "title": "Test Video (replace with real science short)",
+    "description": "Just testing playback",
+    "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+    "channelId": null,
+    "channelName": "Test Channel",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "category": "PHYSICS",
+    "language": "en",
+    "durationSeconds": 45,
+    "isShort": true,
+    "isActive": true,
+    "source": "manual"
+  },
+    {
+    "videoId": "h-NCdNwE-iA",
+    "title": "Test Video (replace with real science short)",
+    "description": "Just testing playback",
+    "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+    "channelId": null,
+    "channelName": "Test Channel",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "category": "PHYSICS",
+    "language": "en",
+    "durationSeconds": 45,
+    "isShort": true,
+    "isActive": true,
+    "source": "manual"
+  },
+    {
+    "videoId": "h-NCdNwE-iA",
+    "title": "Test Video (replace with real science short)",
+    "description": "Just testing playback",
+    "thumbnailUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+    "channelId": null,
+    "channelName": "Test Channel",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "category": "PHYSICS",
+    "language": "en",
+    "durationSeconds": 45,
+    "isShort": true,
+    "isActive": true,
+    "source": "manual"
+  },
+  
 ]
