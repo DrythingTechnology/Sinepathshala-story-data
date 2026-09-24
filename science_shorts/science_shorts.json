@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "videoId": "SASBBBnGabo",
+    "title": "Test Science Video",
+    "description": "Testing",
+    "thumbnailUrl": "https://img.youtube.com/vi/SASBBBnGabo/hqdefault.jpg",
+    "channelId": null,
+    "channelName": "Test Channel",
+    "publishedAt": "2026-01-01T00:00:00Z",
+    "category": "PHYSICS",
+    "language": "en",
+    "durationSeconds": 45,
+    "isShort": true,
+    "isActive": true,
+    "source": "manual"
+  }
+]
