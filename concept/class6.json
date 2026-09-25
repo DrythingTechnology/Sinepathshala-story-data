@@ -362,7 +362,7 @@
   {
     "id": "c41",
     "title": "Work and Energy: Is Pushing a Wall Work?",
-    "story": "Sameer ne 2 ghante tak ek bhari deewar ko dhakka diya. Wo paseene se lathpath tha aur thak gaya tha, par deewar apni jagah se nahi hili. Uske dost ne kaha, 'Tune science ke hisaab se zero kaam kiya hai!' Sameer gussa ho gaya. Science teacher ne samjhaya, 'Scientific definition mein Work tabhi hota hai jab Force lagane par Displacement (hilna) ho. Kyunki deewar nahi hili, toh $W = F \times s = 0$.' Sameer ne sikha ki energy toh kharch hui (Muscular energy), par mechanical work nahi hua. Usne ye bhi samjha ki agar koi porter sir par bojh lekar khada hai, toh gravity ke against uska work zero hai kyunki force aur displacement 90 degree par hain.",
+    "story": "Sameer ne 2 ghante tak ek bhari deewar ko dhakka diya. Wo paseene se lathpath tha aur thak gaya tha, par deewar apni jagah se nahi hili. Uske dost ne kaha, 'Tune science ke hisaab se zero kaam kiya hai!' Sameer gussa ho gaya. Science teacher ne samjhaya, 'Scientific definition mein Work tabhi hota hai jab Force lagane par Displacement (hilna) ho. Kyunki deewar nahi hili, toh $W = F \\times s = 0$.' Sameer ne sikha ki energy toh kharch hui (Muscular energy), par mechanical work nahi hua. Usne ye bhi samjha ki agar koi porter sir par bojh lekar khada hai, toh gravity ke against uska work zero hai kyunki force aur displacement 90 degree par hain.",
     "class": "9",
     "subject": "Physics",
     "image": "https://raw.githubusercontent.com/DrythingTechnology/Sinepathshala-story-data/main/images/concept/Sinepathshal_logo.png",
